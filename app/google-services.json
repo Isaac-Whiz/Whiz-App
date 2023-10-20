@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700766723110",
+    "project_id": "whiz-app-35daa",
+    "storage_bucket": "whiz-app-35daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700766723110:android:3d2070a14d23a18b599ae7",
+        "android_client_info": {
+          "package_name": "com.example.whizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKV5F7ATs3PIxrOWdnwFSB2nuQJvtGNmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

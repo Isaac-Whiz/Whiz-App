@@ -8,7 +8,7 @@
 <p>This a an Android Mobile Chatting Application that enables seemless communication between disparate individuals on the platform.
   The user can initiate a coversation to the intended recepient and can receive timely responses addressing the issue of communication.</p>
 
-## Build with 🏗
+## Build with 🏡
 * Love 💖
   <p>One could think this is a library but not, unlike the strong desire to create an impact to the society adding a contribution to already existing platforms
    accompaned by the expertise in software dev, compelled the author of the project to get it into existance.</p>
@@ -53,7 +53,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License 📜
 
-Distributed under the AGPL-3.0 License. See [`LICENSE.txt`](https://github.com/Isaac-Whiz/SDA_Nyimba?tab=AGPL-3.0-1-ov-file#) for more information.
+Distributed under the GPL-2.0 License. See [`LICENSE.txt`](https://github.com/Isaac-Whiz/Whiz-App?tab=GPL-2.0-1-ov-file#) for more information.
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## Link Up 📧 
@@ -77,6 +77,22 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## A peep into the muze 📳
+
+  <div>
+  <img src="https://github.com/Isaac-Whiz/Whiz-App/assets/95527627/67beea30-f35b-4b68-bd46-0e800582a4ca" alt="Register Activity"  width="350" height="500">
+</div>
+
+ <div>
+  <img src="https://github.com/Isaac-Whiz/Whiz-App/assets/95527627/daf60510-8cd3-4fe7-b983-e29ab9db9b7c" alt="Login Activity"  width="350" height="500">
+</div>
+
+ <div>
+  <img src="https://github.com/Isaac-Whiz/Whiz-App/assets/95527627/946462e8-68b0-4ee8-a9b4-e6f92b4ecc0a" alt="Chats Activity"  width="350" height="500">
+</div>
+
+ <div>
+  <img src="https://github.com/Isaac-Whiz/Whiz-App/assets/95527627/a076ff09-f240-452e-b64d-47586895a910" alt="Chat Activity"  width="350" height="500">
+</div>
 
 
 <p align="right"><a href="#readme-top">Back to top</a></p>

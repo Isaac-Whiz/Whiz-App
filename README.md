@@ -24,16 +24,17 @@
   <p>Android Studio is the official Integrated Development Environment (IDE) for Android App development. It is a powerful tool that allows developers to build high-quality applications for the Android platform.
    It has complete tools for the process of Android App development.
   From writing code to testing and deployment, ANdroid studio has all the functionalities for developers to develop an Android App.</p>
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <p align="right"><a href="#readme-top">Back to top</a></p>
 
   ## Installation ℹ
   <p>Download the application apk [here](https://drive.google.com/drive/folders/19FjBxzq0fNi-6ARrDrB4sq5mTBva9_Vo?usp=sharing) and follow the prompts of installation.</p>
-  <p>__Note:__ Incase of hinderance by Android security, browse to settings and enable allow installation from unknown sources.</p>
+  <p>Note: Incase of hinderance by Android security, browse to settings and enable allow installation from unknown sources.</p>
   
   ## Usage 🔗
   <p>After insatllation of the application, the user has to register first which requires to enter the name, password and email together with a profile picture.</p>
   <p>After wards the user can browse to where can view all the available members on the platform, and can simply choose the one to chart with.</p>
   <p>Already interarcted with chats appear on the first view when logged in.</p>
+  <p align="right"><a href="#readme-top">Back to top</a></p>
 
   ## Contributing 📈
 
@@ -48,7 +49,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## License 📜
 
@@ -63,7 +64,6 @@ Project Link: [https://github.com/Isaac-Whiz/SDA_Nyimba](https://github.com/Isaa
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
-
 # Powered by 💪 🍾
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
@@ -73,6 +73,11 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Intuit Sdp](https://github.com/intuit/sdp)
 * [GitHub Pages](https://pages.github.com)
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
+## A peep into the muze 📳
+
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
